@@ -1,1 +1,2 @@
 double
+print(123)
